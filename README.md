@@ -17,3 +17,5 @@ By pointing your mobile device's camera at predefined images, you can bring 3D a
 <img src="https://github.com/zhafirahkamila/animalARUnity/assets/115094389/73aab4f4-ab57-4c6c-b6fe-132e6c5b5a10" width="350" height="350" /> 
 <img src="https://github.com/zhafirahkamila/animalARUnity/assets/115094389/e81858ac-973f-4ba6-b4cf-9dfa831a722f" width="350" height="350" />
 
+## NOTED:
+### This application is still under development and not yet completed.
